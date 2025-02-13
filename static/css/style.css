@@ -1,0 +1,34 @@
+/* /static/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #404f0d;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: #1F3177;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 100px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #771F1F;
+}
+
+#responseMessage {
+    margin-top: 20px;
+    font-size: 18px;
+}
