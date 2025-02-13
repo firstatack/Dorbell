@@ -10,7 +10,7 @@ Timbre que hace uso de sinricpro y el asistente de google a traves de un altavoz
 
 ## Seguridad
 
-    Pese a que las variables de seguridad se cargan desde el backend en este ejemplo , estan almacendas en el codigo y es  mala practica podemos mejorarlo cargandolas desde una variable del sistema 
+    Pese a que las variables de seguridad se cargan desde el backend en este ejemplo , estan almacendas en el codigo y es  mala practica podemos mejorarlo cargandolas desde una variable del sistema , PROXIMA CORRECCION
 
 ## Uso 
 
